@@ -7,7 +7,8 @@ This service will automatically handle DB connection and connect to the respecti
 
 Example TenantRegistration table 
 
-```{
+```
+{
   "origin": "test.test.com",
   "jwtSecret": "Xfafhjhsdfjh23232832732hsdfa",
   "jwtSecretRefresh": "aCfafhjhsdfjh23232832732hsdfa",
@@ -19,6 +20,7 @@ Example TenantRegistration table
   "accountActivation": false,
   "accountActivationExpires": 3
 }
+```
 
 #### If requests comes from 
 
